@@ -18,7 +18,7 @@ let info = {
     {
       name: "Estiam Paris ",
       place: "Paris, 75020",
-      date: "octobre, 2022 - present",
+      date: "octobre, 2022 - octobre 2024",
       degree: "master développeur fullstack",
 
       description:
@@ -101,7 +101,7 @@ let info = {
     {
       name: "Direction Générale de la Gendarmerie Nationale",
       place: "Issy les Moulineaux, 92130",
-      date: "novembre 2021 - Actuellement",
+      date: "novembre 2021 - octobre 2024",
       position: "Développeur Fullstack Javascript",
       description:
         "",
