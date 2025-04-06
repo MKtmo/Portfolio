@@ -12,7 +12,7 @@ let info = {
   links: {
     linkedin: "https://www.linkedin.com/in/mody-kane-0390bb205",
     github: "https://github.com/mktmo",
-    resume: "https://www.canva.com/design/DAGj4K1eT78/zEgc82Oxnl4u9XMzc0mKvA/view?utm_content=DAGj4K1eT78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c05b3c31c"
+    resume: "https://www.canva.com/design/DAGj4LquH80/Cp4_Ww2yQeLXYNsrLAWw2g/view?utm_content=DAGj4LquH80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb4457c1ab8"
   },
   education: [
     {
