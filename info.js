@@ -121,7 +121,7 @@ let info = {
     {
       title: "Language",
       info: [
-        "C#", "Java", "Javascript", "Python", "SQL", "TypeScript",],
+        "Javascript", "Python", "SQL", "TypeScript",],
       icon: "fa fa-code"
     },
     {
@@ -155,7 +155,7 @@ let info = {
     },
     {
       title: "web technologies",
-      info: ["Angular", "ASP .NET", "Bootstrap3", "CSS3", "Es6", "HTML5", "Nest JS", "Node JS", "Quasar", "React", "Vue JS", ],
+      info: ["Angular", "Nest JS", "Node JS", "Quasar", "React", "Vue JS", ],
       icon: "fas fa-laptop-code"
     },
     {
