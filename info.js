@@ -1,6 +1,6 @@
 let info = {
   name: "Mody KANE",
-  logo_name: "Mody",
+  logo_name: "Mody KANE",
   config: {
     use_cookies: true,
     navbar: {
